@@ -104,7 +104,14 @@ Future iterations may explore the following:
 - **Deployment:** Develop a web application or API to enable real-time predictions using the best-performing model.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
 
 ## Acknowledgments
 The Ames Housing dataset is provided by Kaggle. Thanks to the contributors of libraries used in this project, including Pandas, NumPy, and Scikit-learn.
+
+## Requirements
+To run this project, install the required packages listed in [requirements.txt](requirements.txt) file
+
+## Contributing
+We welcome contributions to this project! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+
